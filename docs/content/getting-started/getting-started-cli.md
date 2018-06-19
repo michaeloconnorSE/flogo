@@ -5,7 +5,7 @@ pre: "<i class=\"fa fa-terminal\" aria-hidden=\"true\"></i> "
 ---
 
 ### Before you get started
-Before you can get started with the cli tools you need to make sure you the [Go programming language](https://golang.org/doc/install) installed. 
+Before you can get started with the cli tools you need to make sure you have the [Go programming language](https://golang.org/doc/install) installed. 
 
 {{% notice info %}}
 Don't forget to set your `GOPATH` variable and make sure that `$GOPATH/bin` is part of your path. (see [here](https://golang.org/doc/code.html#GOPATH) or [here](https://github.com/golang/go/wiki/SettingGOPATH) for more details)
